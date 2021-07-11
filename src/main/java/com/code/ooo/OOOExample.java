@@ -1,7 +1,5 @@
 package com.code.ooo;
 
-import com.code.userinput.User;
-
 import java.util.Date;
 
 public class OOOExample {
